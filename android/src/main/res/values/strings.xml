@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IkunFragment 页面标题和导航相关 -->
+    <string name="ikun_fragment_title">Ikun 控制面板</string>
+    <string name="ikun_back_button">返回</string>
+    <string name="ikun_settings_button">设置</string>
+    
+    <!-- 连接状态相关 -->
+    <string name="ikun_connection_status">连接状态</string>
+    <string name="ikun_connected">已连接</string>
+    <string name="ikun_disconnected">未连接</string>
+    <string name="ikun_connecting">连接中...</string>
+    
+    <!-- 控制按钮 -->
+    <string name="ikun_power_on">开机</string>
+    <string name="ikun_power_off">关机</string>
+    <string name="ikun_play">播放</string>
+    <string name="ikun_pause">暂停</string>
+    <string name="ikun_next_track">下一曲</string>
+    <string name="ikun_previous_track">上一曲</string>
+    <string name="ikun_volume_up">音量+</string>
+    <string name="ikun_volume_down">音量-</string>
+    
+    <!-- 音量控制 -->
+    <string name="ikun_volume_label">音量</string>
+    <string name="ikun_volume_max">最大音量</string>
+    <string name="ikun_volume_min">最小音量</string>
+    <string name="ikun_volume_current">当前音量: %1$d</string>
+    
+    <!-- 状态信息 -->
+    <string name="ikun_battery_level">电池电量</string>
+    <string name="ikun_battery_percentage">%1$d%%</string>
+    <string name="ikun_device_name">设备名称</string>
+    <string name="ikun_firmware_version">固件版本</string>
+    
+    <!-- 功能模式 -->
+    <string name="ikun_mode_normal">普通模式</string>
+    <string name="ikun_mode_gaming">游戏模式</string>
+    <string name="ikun_mode_music">音乐模式</string>
+    <string name="ikun_mode_call">通话模式</string>
+    
+    <!-- 弹窗消息 -->
+    <string name="ikun_dialog_title">提示</string>
+    <string name="ikun_dialog_confirm">确定</string>
+    <string name="ikun_dialog_cancel">取消</string>
+    <string name="ikun_dialog_connection_failed">连接失败，请检查设备状态</string>
+    <string name="ikun_dialog_operation_success">操作成功</string>
+    <string name="ikun_dialog_operation_failed">操作失败，请重试</string>
+    <string name="ikun_dialog_low_battery">设备电量低，请及时充电</string>
+    <string name="ikun_dialog_disconnect_confirm">确定要断开连接吗？</string>
+    
+    <!-- 错误消息 -->
+    <string name="ikun_error_communication">通信错误</string>
+    <string name="ikun_error_timeout">操作超时</string>
+    <string name="ikun_error_invalid_response">无效响应</string>
+    <string name="ikun_error_device_not_found">未找到设备</string>
+    
+    <!-- 功能区域标题 -->
+    <string name="ikun_section_control">控制面板</string>
+    <string name="ikun_section_status">状态信息</string>
+    <string name="ikun_section_settings">设置选项</string>
+    
+    <!-- 设置选项 -->
+    <string name="ikun_setting_auto_connect">自动连接</string>
+    <string name="ikun_setting_notifications">通知提醒</string>
+    <string name="ikun_setting_voice_prompts">语音提示</string>
+    <string name="ikun_setting_led_indicator">LED指示灯</string>
+    
+    <!-- 加载和状态提示 -->
+    <string name="ikun_loading">加载中...</string>
+    <string name="ikun_please_wait">请稍候...</string>
+    <string name="ikun_operation_in_progress">操作进行中...</string>
+    
+    <!-- 应用基本信息 -->
+    <string name="app_name">Ikun Audio Device</string>
+</resources>
